@@ -1,0 +1,5 @@
+name: lam
+
+dependencies:
+    meta: ">0.0.0"
+    collection: ">0.0.0"
