@@ -1,4 +1,5 @@
-name: lam
+name: spell
+version: "0.0.0"
 
 dependencies:
     meta: ">0.0.0"
