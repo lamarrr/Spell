@@ -6,7 +6,7 @@ dependencies:
 
 
 description: A simple numeric number to English translator
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/lamarrr/Spell
 author: lamar <rlamarrr@gmail.com>
 
