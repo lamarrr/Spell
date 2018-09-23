@@ -1,6 +1,37 @@
-# Spell 0.0.1
-A utility to convert numeric characters (digits) to alphabetical characters
-only English is supported
+#Spell - Number Interpreter (English) 
 
-Draft
-=====
+
+##Overview
+
+Spell is a small [Dart](https://dartlang.org) library for converting numbers to their respective names in English.
+
+Shhh! Full of spaghetti and unoptimized code, but it works!
+
+
+
+##Installation using pub
+
+- using [pub](https://pub.dartlang.org) add to your dependencies key in pubspec.yaml for your project:
+
+		spell: "^0.0.1"
+
+
+- save and run:
+
+ 		user:~$ pub get
+
+## Quickstart
+
+	import "package:spell/spell.dart" as spell;
+	
+	void main(List<String> argv) {
+		print(spell.numToWords(12345));
+	}
+	
+## License
+[MIT License](./LICENSE.md)
+
+
+
+[![Saketocat](.github/assets/saketocat.png)](https://github.com/lamarrr) 
+

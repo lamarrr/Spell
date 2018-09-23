@@ -1,6 +1,21 @@
 name: spell
-version: "0.0.0"
 
 dependencies:
-    meta: ">0.0.0"
-    collection: ">0.0.0"
+    meta: ">=1.0.0 <3.0.0"
+    collection: ">=1.0.0 <3.0.0"
+
+
+description: A simple numeric number to English translator
+version: 0.0.1
+homepage: https://github.com/lamarrr/Spell
+author: lamar <rlamarrr@gmail.com>
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+
+
+
+dev_dependencies:
+  #test: any
+  
