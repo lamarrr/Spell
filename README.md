@@ -1,7 +1,8 @@
-#Spell - Number Interpreter (English) 
+
+# Spell - Number Interpreter (English) 
 
 
-##Overview
+## Overview
 
 Spell is a small [Dart](https://dartlang.org) library for converting numbers to their respective names in English.
 
@@ -9,7 +10,7 @@ Shhh! Full of spaghetti and unoptimized code, but it works!
 
 
 
-##Installation using pub
+## Installation using pub
 
 - using [pub](https://pub.dartlang.org) add to your dependencies key in pubspec.yaml for your project:
 
@@ -29,9 +30,9 @@ Shhh! Full of spaghetti and unoptimized code, but it works!
 	}
 	
 ## License
-[MIT License](./LICENSE.md)
+[MIT License](./LICENSE)
 
 
 
-[![Saketocat](.github/assets/saketocat.png)](https://github.com/lamarrr) 
+[![Saketocat](md/assets/saketocat.png)](https://github.com/lamarrr) 
 
