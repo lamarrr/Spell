@@ -26,7 +26,7 @@ Shhh! Full of spaghetti and unoptimized code, but it works!
 	import "package:spell/spell.dart" as spell;
 	
 	void main(List<String> argv) {
-		print(spell.numToWords(12345));
+		print(spell.spell(12345));
 	}
 	
 ## License
