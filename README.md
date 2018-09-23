@@ -1,6 +1,6 @@
 
 # Spell - Number Interpreter (English) 
-[Build Status](https://travis-ci.com/lamarrr/Spell.svg?branch=master)
+![Build Status](https://travis-ci.com/lamarrr/Spell.svg?branch=master)
 
 ## Overview
 
