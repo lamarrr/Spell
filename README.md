@@ -14,7 +14,7 @@ Shhh! Full of spaghetti and unoptimized code, but it works!
 
 - using [pub](https://pub.dartlang.org) add to your dependencies key in pubspec.yaml for your project:
 
-		spell: "^0.0.1"
+		spell: "0.0.2"
 
 
 - save and run:
